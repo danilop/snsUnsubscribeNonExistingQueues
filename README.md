@@ -23,5 +23,5 @@ To use this script you need:
 
 Just run the script:
 
-./snsUnsubscribeNonExistingQueues.sh
+    ./snsUnsubscribeNonExistingQueues.sh
 
